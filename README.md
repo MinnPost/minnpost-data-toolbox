@@ -20,6 +20,14 @@ Places to find data.
 
 - http://data.worldbank.org
 
+## Helpful Tools
+
+Some helpful tools for working with data:
+
+ - PostGIS
+ - TileMill
+ - CSVKit ([code](https://github.com/onyxfish/csvkit), [docs](http://csvkit.readthedocs.org/en/latest/index.html))
+
 ## Working with Minnesota Data
 
 ### GIS Projections
