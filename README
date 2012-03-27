@@ -3,26 +3,26 @@
 This repo contains data that MinnPost uses often in data projects.
 Most of the data is specific to Minnesota.
 
-# Data stores
+## Data stores
 
 Places to find data.
 
-## Minesota
+### Minesota
 
 - ??
 
-## National
+### National
 
 - http://www.census.gov/cgi-bin/geo/shapefiles2010/main
 - http://census.ire.org/
 
-## International
+### International
 
 - http://data.worldbank.org
 
-# Working with Minnesota Data
+## Working with Minnesota Data
 
-## GIS Projections
+### GIS Projections
 
 Minnesota geospatial data often comes in the following projection.  This
 information should be available with Shapefiles.
