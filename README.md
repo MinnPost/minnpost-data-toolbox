@@ -9,7 +9,8 @@ Places to find data.
 
 ### Minesota
 
-- ??
+- [MN GIS Data](http://www.mngeo.state.mn.us/chouse/data.html)
+- [Metro GIS](http://www.mngeo.state.mn.us/chouse/data.html)
 
 ### National
 
